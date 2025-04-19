@@ -2,7 +2,7 @@
 
 # 👋 ERZAM BAYU
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=435&lines=Web+Developer;Shell+Script+Enthusiast;User+Reconnaissance+Expert;Interactive+Web+Creator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=435&lines=Web+Developer;Shell+Script+Enthusiast;User+Reconnaissance+Expert;Interactive+Web+Creator;Video+Downloader+Developer)](https://git.io/typing-svg)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Erzambayu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
@@ -14,9 +14,9 @@ I'm a developer with a passion for web technologies and security tools. My journ
 
 ```javascript
 const erzamBayu = {
-  code: ['JavaScript', 'HTML', 'CSS', 'Shell'],
-  tools: ['Web Development', 'User Reconnaissance', 'Interactive Experiences'],
-  specialties: ['Motivational Websites', 'Personal Gifts', 'Social Media Analysis'],
+  code: ['JavaScript', 'HTML', 'CSS', 'Shell', 'Python'],
+  tools: ['Web Development', 'User Reconnaissance', 'Interactive Experiences', 'Video Downloaders'],
+  specialties: ['Motivational Websites', 'Personal Gifts', 'Social Media Analysis', 'File Streaming'],
   challenge: 'Improving my skills every day and building useful projects',
   funFact: 'I love creating tools that help others in their tech journey'
 };
@@ -44,11 +44,21 @@ const erzamBayu = {
 
 </div>
 
-### 🛠️ Tools
+### 🎥 Video & File Downloaders
+
+<div align="center">
+
+[![PoopDL](https://github-readme-stats.vercel.app/api/pin/?username=Erzambayu&repo=PoopDL&theme=radical)](https://github.com/Erzambayu/PoopDL)
+[![TeraDL](https://github-readme-stats.vercel.app/api/pin/?username=Erzambayu&repo=TeraDL&theme=radical)](https://github.com/Erzambayu/TeraDL)
+
+</div>
+
+### 🛠️ Tools & Security
 
 <div align="center">
 
 [![UserRecon](https://github-readme-stats.vercel.app/api/pin/?username=Erzambayu&repo=userrecon&theme=radical)](https://github.com/Erzambayu/userrecon)
+[![Shell Backdoor List](https://github-readme-stats.vercel.app/api/pin/?username=Erzambayu&repo=shell-backdoor-list&theme=radical)](https://github.com/Erzambayu/shell-backdoor-list)
 
 </div>
 
@@ -58,6 +68,7 @@ const erzamBayu = {
 - Better error handling and timeout management
 - Clean and organized code structure
 - Results saved to text file for easy reference
+- Find usernames across different social networks for investigations
 
 ## 🛠️ Tech Stack
 
@@ -66,6 +77,8 @@ const erzamBayu = {
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Local Storage](https://img.shields.io/badge/Local_Storage-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 ![Web Notifications](https://img.shields.io/badge/Web_Notifications-FF4500?style=for-the-badge&logo=mozilla&logoColor=white)
@@ -100,6 +113,7 @@ A motivational website designed to encourage and motivate partners in achieving 
 - 💬 Random motivational quotes with 15+ inspirational quotes
 - ✅ Checkable target list
 - 📊 Progress bar to track achievements
+- 🔄 Automatic weekly reset of targets
 
 ### ThisForYou
 An interactive love message website with beautiful animations.
@@ -107,6 +121,21 @@ An interactive love message website with beautiful animations.
 - 🎉 Interactive confetti effects
 - 🎵 Background music during the experience
 - 💬 Engaging conversation flow with personalized responses
+- 📱 Fully responsive design for both desktop and mobile
+
+### PoopDL
+A powerful platform for streaming or downloading PoopHD videos quickly and for free.
+- ✅ Multi-URL Processing: Fetch multiple video URLs simultaneously
+- ⚡ Fast Downloads: Direct download links with no throttling
+- 🎥 Ad-Free Streaming: Clean, ad-free video streaming experience
+- 💻 Responsive UI: Works on desktop and mobile devices
+
+### TeraDL
+Terabox File Downloader & Video Streaming tool with multiple features.
+- ⚡ Download Terabox files without creating an account
+- 🎥 Stream videos directly from browser
+- 📂 Support for multiple file formats
+- 🌐 Public API for integration with other applications
 
 ---
 
