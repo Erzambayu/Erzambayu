@@ -7,7 +7,7 @@ Hi there! I'm Erzam Bayu, a developer with a focus on web technologies. Welcome 
 
 ### Web Development Projects
 - [birthday.githup.io](https://github.com/Erzambayu/birthday.githup.io) - A birthday celebration webpage built with CSS
-- [fau.github.io](https://github.com/Erzambayu/fau.github.io) - JavaScript-based web project
+- [thisforyou.github.io](https://github.com/Erzambayu/fau.github.io) - JavaScript-based web project
 - [thisforu.github.io](https://github.com/Erzambayu/thisforu.github.io) - A personal web project built with HTML
 - [myweb](https://github.com/Erzambayu/myweb) - Personal website project using HTML
 
