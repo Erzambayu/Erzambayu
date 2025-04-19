@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> ERZAM BAYU
+# 👋 ERZAM BAYU
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=435&lines=Web+Developer;Shell+Script+Enthusiast;User+Reconnaissance+Expert)](https://git.io/typing-svg)
 
@@ -8,7 +8,7 @@
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> About Me
+## 🚀 About Me
 
 I'm a developer with a passion for web technologies and security tools. My journey in tech has led me to create various web projects and useful tools. I'm constantly exploring new technologies and improving my skills.
 
@@ -21,7 +21,7 @@ const erzamBayu = {
 };
 ```
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> My Projects
+## 💻 My Projects
 
 ### 🌐 Web Development
 
@@ -42,7 +42,7 @@ const erzamBayu = {
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -53,7 +53,7 @@ const erzamBayu = {
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -65,7 +65,7 @@ const erzamBayu = {
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
