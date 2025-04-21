@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a developer with a passion for web technologies and security tools. My journey in tech has led me to create various web projects and useful tools. I'm constantly exploring new technologies and improving my skills.
+I'm a passionate developer specializing in web technologies and security tools. With a strong focus on creating innovative solutions, I've developed various web projects and utility tools. My expertise spans across web development, security analysis, and interactive web experiences.
 
 ```javascript
 const erzamBayu = {
@@ -62,14 +62,6 @@ const erzamBayu = {
 
 </div>
 
-#### UserRecon Features
-- Modern social media platform support (30+ platforms)
-- Improved detection methods to reduce false positives
-- Better error handling and timeout management
-- Clean and organized code structure
-- Results saved to text file for easy reference
-- Find usernames across different social networks for investigations
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -102,6 +94,7 @@ const erzamBayu = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erzambayu)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://erzambayu.me/)
 
 </div>
 
@@ -136,6 +129,15 @@ Terabox File Downloader & Video Streaming tool with multiple features.
 - 🎥 Stream videos directly from browser
 - 📂 Support for multiple file formats
 - 🌐 Public API for integration with other applications
+
+## 🎯 Skills & Expertise
+
+- Web Development (HTML, CSS, JavaScript)
+- Shell Scripting & Automation
+- User Reconnaissance & Security Analysis
+- Interactive Web Design
+- Video & File Processing
+- API Development & Integration
 
 ---
 
