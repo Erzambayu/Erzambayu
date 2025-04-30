@@ -18,7 +18,8 @@ const erzamBayu = {
   tools: ['Web Development', 'User Reconnaissance', 'Interactive Experiences', 'Video Downloaders'],
   specialties: ['Motivational Websites', 'Personal Gifts', 'Social Media Analysis', 'File Streaming'],
   challenge: 'Improving my skills every day and building useful projects',
-  funFact: 'I love creating tools that help others in their tech journey'
+  funFact: 'I love creating tools that help others in their tech journey',
+  currentFocus: 'Learning React and Node.js for full-stack development'
 };
 ```
 
@@ -72,8 +73,10 @@ const erzamBayu = {
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Local Storage](https://img.shields.io/badge/Local_Storage-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
-![Web Notifications](https://img.shields.io/badge/Web_Notifications-FF4500?style=for-the-badge&logo=mozilla&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -95,6 +98,9 @@ const erzamBayu = {
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erzambayu)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://erzambayu.me/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erzambayu)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/erzambayu)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/erzambayu)
 
 </div>
 
@@ -107,6 +113,7 @@ A motivational website designed to encourage and motivate partners in achieving 
 - ✅ Checkable target list
 - 📊 Progress bar to track achievements
 - 🔄 Automatic weekly reset of targets
+- 🎨 Modern and responsive design
 
 ### ThisForYou
 An interactive love message website with beautiful animations.
@@ -115,6 +122,7 @@ An interactive love message website with beautiful animations.
 - 🎵 Background music during the experience
 - 💬 Engaging conversation flow with personalized responses
 - 📱 Fully responsive design for both desktop and mobile
+- 🌈 Customizable themes and colors
 
 ### PoopDL
 A powerful platform for streaming or downloading PoopHD videos quickly and for free.
@@ -122,6 +130,7 @@ A powerful platform for streaming or downloading PoopHD videos quickly and for f
 - ⚡ Fast Downloads: Direct download links with no throttling
 - 🎥 Ad-Free Streaming: Clean, ad-free video streaming experience
 - 💻 Responsive UI: Works on desktop and mobile devices
+- 🔒 Secure: No data collection or tracking
 
 ### TeraDL
 Terabox File Downloader & Video Streaming tool with multiple features.
@@ -129,15 +138,27 @@ Terabox File Downloader & Video Streaming tool with multiple features.
 - 🎥 Stream videos directly from browser
 - 📂 Support for multiple file formats
 - 🌐 Public API for integration with other applications
+- 🔄 Batch download support
+- 🛡️ Secure file handling
 
 ## 🎯 Skills & Expertise
 
-- Web Development (HTML, CSS, JavaScript)
+- Web Development (HTML, CSS, JavaScript, React)
 - Shell Scripting & Automation
 - User Reconnaissance & Security Analysis
 - Interactive Web Design
 - Video & File Processing
 - API Development & Integration
+- Full-Stack Development
+- UI/UX Design
+
+## 📚 Currently Learning
+
+- React.js and Next.js for modern web development
+- Node.js for backend development
+- Advanced JavaScript concepts
+- UI/UX design principles
+- Cloud technologies and deployment
 
 ---
 
