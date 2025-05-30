@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=ERZAM%20BAYU&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Passionate%20Developer%20%26%20Creative%20Innovator&descAlignY=51&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=ERZAM%20BAYU&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Passionate%20Developer%20and%20Creative%20Innovator&descAlignY=51&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🚀+Full-Stack+Web+Developer;🔧+Shell+Script+Enthusiast;🔍+Security+%26+Reconnaissance+Expert;🎨+Interactive+Web+Creator;📹+Video+Streaming+Developer;💡+Problem+Solver+%26+Innovator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Shell+Script+Enthusiast;Security+and+Reconnaissance+Expert;Interactive+Web+Creator;Video+Streaming+Developer;Problem+Solver+and+Innovator)](https://git.io/typing-svg)
 
 <img src="https://github-profile-trophy.vercel.app/api/?username=Erzambayu&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
@@ -68,7 +68,7 @@ const erzamBayu: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Erzambayu&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=00D9FF&sideNums=00D9FF&dates=8B949E" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Erzambayu&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=00D9FF&sideNums=00D9FF&dates=8B949E" alt="GitHub Streak"/>
 
 </div>
 
