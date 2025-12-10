@@ -1,14 +1,14 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=ERZAM%20BAYU&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Passionate%20Developer%20and%20Creative%20Innovator&descAlignY=51&descAlign=50&customColorList=00D9FF,007ACC,00D9FF)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=ERZAM%20BAYU&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Network%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Creative%20Innovator&descAlignY=51&descAlign=50&customColorList=0,2,2,5,30)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Shell+Script+Enthusiast;Security+and+Reconnaissance+Expert;Interactive+Web+Creator;Video+Streaming+Developer;Problem+Solver+and+Innovator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=🚀+Full-Stack+Web+Developer;🤖+WhatsApp+Bot+Developer;💰+Financial+Tech+Creator;🔐+Security+and+Reconnaissance+Expert;🎨+Interactive+Web+Creator;🎥+Video+Streaming+Developer;💡+Problem+Solver+and+Innovator)](https://git.io/typing-svg)
 
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=Erzambayu&color=00D9FF&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/Erzambayu?style=flat-square&color=007ACC&labelColor=1a1a1a)
-![GitHub stars](https://img.shields.io/github/stars/Erzambayu?style=flat-square&color=00D9FF&labelColor=1a1a1a)
+![Profile Views](https://komarev.com/ghpvc/?username=Erzambayu&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/Erzambayu?style=for-the-badge&color=007ACC&labelColor=1a1a1a&label=Followers)](https://github.com/Erzambayu?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Erzambayu?style=for-the-badge&color=00D9FF&labelColor=1a1a1a&label=Total+Stars)](https://github.com/Erzambayu?tab=repositories)
 
 </div>
 
@@ -37,26 +37,22 @@ interface Developer {
 
 const erzamBayu: Developer = {
   name: "Erzam Bayu",
-  role: ["Full-Stack Developer", "Security Researcher", "Creative Innovator"],
+  role: ["Network Engineer", "Full-Stack Developer", "Security Researcher", "Creative Innovator"],
   location: "Indonesia 🇮🇩",
-  code: ["JavaScript", "TypeScript", "Python", "HTML/CSS", "Shell Script"],
+  code: ["JavaScript", "TypeScript", "Python", "Vue.js", "HTML/CSS", "Shell Script"],
   technologies: {
     frontend: ["React", "Next.js", "Vue.js", "TailwindCSS", "Framer Motion"],
-    backend: ["Node.js", "Express", "Flask", "FastAPI"],
+    backend: ["Node.js", "Express", "Flask", "FastAPI", "Baileys"],
     tools: ["Git", "Docker", "VS Code", "Figma", "Postman"],
     databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"]
   },
-  architecture: ["SPA", "PWA", "Microservices", "RESTful API", "GraphQL"],
-  currentFocus: "Building innovative web solutions and security tools",
+  architecture: ["SPA", "PWA", "Microservices", "RESTful API", "GraphQL", "WhatsApp Bot"],
+  currentFocus: "Building innovative web solutions, financial tools, and automation bots",
   funFact: "I love creating tools that solve real-world problems! 💡"
 };
 ```
 
 </div>
-
----
-
-
 
 ---
 
@@ -101,9 +97,89 @@ const erzamBayu: Developer = {
 
 ---
 
-## 🎯 Portfolio Unggulan
+## ⭐ Proyek Unggulan Terbaru
 
 <div align="center">
+
+### 🤖 Automation & Bot Development
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🤖 [WA-BOT](https://github.com/Erzambayu/WA-BOT)
+*WhatsApp Automation Bot*
+
+⚡ **Features:**
+- 📱 Multi-device WhatsApp connection
+- 🔧 Easy customization & plugins
+- 🚀 Fast & lightweight performance
+- 📦 Built with Baileys library
+- 🔄 Auto-reconnect system
+- 🛡️ Anti-spam protection
+
+[![Stars](https://img.shields.io/github/stars/Erzambayu/WA-BOT?style=for-the-badge&color=FFD700)](https://github.com/Erzambayu/WA-BOT/stargazers)
+[![Forks](https://img.shields.io/github/forks/Erzambayu/WA-BOT?style=for-the-badge&color=00D9FF)](https://github.com/Erzambayu/WA-BOT/forks)
+
+</td>
+<td width="50%">
+
+#### 💰 [BudgetKu](https://github.com/Erzambayu/BudgetKu)
+*Aplikasi Manajemen Keuangan Modern*
+
+💎 **Fitur Unggulan:**
+- 📊 Analisis prediktif keuangan
+- 📈 Visualisasi data spending
+- 💳 Tracking income & expenses
+- 🎯 Budget planning tools
+- 🌙 Dark mode support
+- 📱 Responsive UI design
+
+[![Stars](https://img.shields.io/github/stars/Erzambayu/BudgetKu?style=for-the-badge&color=FFD700)](https://github.com/Erzambayu/BudgetKu/stargazers)
+[![Forks](https://img.shields.io/github/forks/Erzambayu/BudgetKu?style=for-the-badge&color=00D9FF)](https://github.com/Erzambayu/BudgetKu/forks)
+
+</td>
+</tr>
+</table>
+
+### 🔧 Productivity & Tools
+
+<table>
+<tr>
+<td width="50%">
+
+#### 📋 [TaskFlow](https://github.com/Erzambayu/taskflow)
+*Modern Task Management App*
+
+✨ **Features:**
+- ✅ Intuitive task organization
+- 📊 Progress tracking system
+- 🏷️ Tags & categories
+- 🔔 Reminder notifications
+- 🎨 Beautiful UI/UX
+- 📱 Cross-platform support
+
+[![Stars](https://img.shields.io/github/stars/Erzambayu/taskflow?style=for-the-badge&color=FFD700)](https://github.com/Erzambayu/taskflow/stargazers)
+
+</td>
+<td width="50%">
+
+#### 🏦 [Cek Rekening Indonesia](https://github.com/Erzambayu/cek-rekening-indonesia)
+*Bank Account Verification Tool*
+
+🔍 **Capabilities:**
+- 🏦 Multi-bank support Indonesia
+- 👤 Account name verification
+- 🔒 Secure & private
+- ⚡ Fast lookup speed
+- 🌐 RESTful API
+- 📱 Modern web interface
+
+[![Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://cek-rekening-indonesia.vercel.app)
+
+</td>
+</tr>
+</table>
 
 ### 🌐 Web Development Projects
 
@@ -193,7 +269,7 @@ const erzamBayu: Developer = {
 *Advanced User Reconnaissance Tool*
 
 🎯 **Capabilities:**
-- 🔍 Multi-platform user search
+- 🔍 Find usernames across 30+ platforms (2025)
 - 📊 Social media analysis
 - 🌐 Web presence detection
 - 📈 Data aggregation & reporting
@@ -231,10 +307,25 @@ const erzamBayu: Developer = {
 
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
-| 🎂 [Birthday Card](https://github.com/Erzambayu/birthday.github.io) | Interactive birthday greeting dengan animasi | HTML, CSS, JS | [Demo](https://erzambayu.github.io/birthday.github.io) |
-| 💕 [For You](https://github.com/Erzambayu/fau.github.io) | Personal message website dengan effects | HTML, CSS, JS | [Demo](https://erzambayu.github.io/fau.github.io) |
-| 🌟 [This For U](https://github.com/Erzambayu/thisforu.github.io) | Customizable love message platform | HTML, CSS, JS | [Demo](https://erzambayu.github.io/thisforu.github.io) |
-| 🏠 [My Web](https://github.com/Erzambayu/myweb) | Personal portfolio website | HTML, CSS, JS | [Demo](https://erzambayu.me) |
+| 🎂 [Birthday Card](https://github.com/Erzambayu/birthday.githup.io) | Interactive birthday greeting dengan animasi | HTML, CSS, JS | [![Demo](https://img.shields.io/badge/Demo-00D9FF?style=flat-square)](https://erzambayu.github.io/birthday.githup.io) |
+| � [Homepage Islami](https://github.com/Erzambayu/homepage-islami) | Islamic homepage dengan jadwal sholat | HTML, CSS, JS | [![Demo](https://img.shields.io/badge/Demo-4FC08D?style=flat-square)](https://homepage-islami.vercel.app) |
+| 🧮 [Age Calculator](https://github.com/Erzambayu/age-calculator) | Modern age calculator dengan dark mode | HTML, CSS, JS | [![Demo](https://img.shields.io/badge/Demo-007ACC?style=flat-square)](https://age-calculator-erzambayu.vercel.app) |
+| 💕 [This For U](https://github.com/Erzambayu/thisforu.github.io) | Customizable love message platform | HTML, CSS, JS | [![Demo](https://img.shields.io/badge/Demo-FF6B9D?style=flat-square)](https://erzambayu.github.io/thisforu.github.io) |
+| 🏠 [My Portfolio](https://github.com/Erzambayu/erzambayu.me) | Personal portfolio website | HTML, CSS, JS | [![Demo](https://img.shields.io/badge/Demo-FFD700?style=flat-square)](https://erzambayu.me) |
+| 🛒 [Toko Aplikasi Premium](https://github.com/Erzambayu/toko-aplikasi-premium) | E-commerce platform untuk digital products | JavaScript | [![Demo](https://img.shields.io/badge/Demo-E34F26?style=flat-square)](https://toko-aplikasi-premium.vercel.app) |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Erzambayu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Erzambayu&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FFD700&currStreakLabel=00D9FF" alt="GitHub Streak" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erzambayu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
 
 </div>
 
@@ -250,13 +341,13 @@ current_focus:
     - "React 18 dengan Server Components"
     - "Next.js 14 App Router & Server Actions"
     - "TypeScript Advanced Patterns"
-    - "Micro-frontends Architecture"
+    - "Vue 3 Composition API"
     
   backend_development:
     - "Node.js Performance Optimization"
+    - "WhatsApp Bot dengan Baileys"
     - "GraphQL dengan Apollo Server"
     - "Microservices dengan Docker"
-    - "Database Optimization Techniques"
     
   devops_cloud:
     - "AWS Cloud Architecture"
@@ -275,6 +366,7 @@ future_goals:
   - "📚 Master full-stack TypeScript development"
   - "🌟 Build SaaS platform dengan modern tech stack"
   - "🤝 Mentor junior developers"
+  - "🤖 Develop more automation tools"
 ```
 
 </div>
@@ -285,17 +377,19 @@ future_goals:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://erzambayu.me)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-255E63?style=for-the-badge&logoColor=white)](https://erzambayu.me)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erzambayu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erzambayu)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/erzambayu)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/erzambayu)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erzambayu@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erzambayu@gmail.com)
 
 ### 💬 Mari Berkolaborasi!
 
 ```
 🚀 Open for collaboration on:
    • Innovative web applications
+   • WhatsApp Bot development
+   • Financial technology tools
    • Open source projects
    • Security research & tools
    • Creative digital experiences
@@ -315,17 +409,18 @@ future_goals:
 
 <div align="center">
 
-
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Erzambayu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📈 Impact Metrics
 
 | Metric | Count | Description |
 |--------|-------|-------------|
-| 🎯 **Projects Completed** | 20+ | Fully functional web applications |
-| ⭐ **GitHub Stars** | 250+ | Community appreciation |
-| 🤝 **Contributors** | 30+ | Collaborative development |
-| 👁️ **Profile Views** | 15K+ | Developer community reach |
+| 🎯 **Projects Completed** | 25+ | Fully functional web applications |
+| ⭐ **GitHub Stars** | 50+ | Community appreciation |
+| 🤝 **Repo Forks** | 10+ | Collaborative development |
+| 👁️ **Profile Views** | Growing | Developer community reach |
 | 📱 **Live Demos** | 15+ | Deployed production apps |
+| 🤖 **Bots Created** | 5+ | Automation solutions |
 
 </div>
 
@@ -339,7 +434,8 @@ future_goals:
 
 Saya sedang mempersiapkan platform blog untuk berbagi:
 - 💡 Tutorial web development
-- 🔧 Tips & tricks programming
+- 🤖 WhatsApp Bot development guides
+- 💰 Financial app development
 - 🛡️ Security best practices
 - 🚀 Project showcases & case studies
 
@@ -357,6 +453,14 @@ Saya sedang mempersiapkan platform blog untuk berbagi:
 
 **⚡ Fun Fact:** Saya bisa debug kode sambil minum kopi dan mendengarkan lo-fi beats! ☕🎵
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00D9FF,007ACC,00D9FF&height=120&section=footer&animation=twinkling)
+### 🎵 Now Playing
+
+[![Spotify](https://novatorem-erzambayu.vercel.app/api/spotify)](https://open.spotify.com/user/erzambayu)
+
+---
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Erzambayu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFD700" width="100%" alt="Contribution Graph" />
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling)
 
 </div>
