@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Shell+Script+Enthusiast;Security+and+Reconnaissance+Expert;Interactive+Web+Creator;Video+Streaming+Developer;Problem+Solver+and+Innovator)](https://git.io/typing-svg)
 
-<img src="https://github-profile-trophy.vercel.app/api/?username=Erzambayu&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Erzambayu&color=00D9FF&style=flat-square&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/Erzambayu?style=flat-square&color=007ACC&labelColor=1a1a1a)
@@ -335,7 +335,7 @@ future_goals:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/api/?username=Erzambayu&theme=tokyonight&no-frame=true&column=3&margin-w=15&margin-h=15&title=Commits,Repositories,PullRequest" alt="GitHub Achievements" />
+
 
 ### 📈 Impact Metrics
 
