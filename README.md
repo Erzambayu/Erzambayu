@@ -1,14 +1,14 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=ERZAM%20BAYU&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Passionate%20Developer%20and%20Creative%20Innovator&descAlignY=51&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=ERZAM%20BAYU&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Passionate%20Developer%20and%20Creative%20Innovator&descAlignY=51&descAlign=50&customColorList=00D9FF,007ACC,00D9FF)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Shell+Script+Enthusiast;Security+and+Reconnaissance+Expert;Interactive+Web+Creator;Video+Streaming+Developer;Problem+Solver+and+Innovator)](https://git.io/typing-svg)
 
 <img src="https://github-profile-trophy.vercel.app/api/?username=Erzambayu&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Erzambayu&color=0e75b6&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/Erzambayu?style=flat-square&color=0e75b6&labelColor=1a1a1a)
-![GitHub stars](https://img.shields.io/github/stars/Erzambayu?style=flat-square&color=0e75b6&labelColor=1a1a1a)
+![Profile Views](https://komarev.com/ghpvc/?username=Erzambayu&color=00D9FF&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/Erzambayu?style=flat-square&color=007ACC&labelColor=1a1a1a)
+![GitHub stars](https://img.shields.io/github/stars/Erzambayu?style=flat-square&color=00D9FF&labelColor=1a1a1a)
 
 </div>
 
@@ -41,7 +41,7 @@ const erzamBayu: Developer = {
   location: "Indonesia 🇮🇩",
   code: ["JavaScript", "TypeScript", "Python", "HTML/CSS", "Shell Script"],
   technologies: {
-    frontend: ["React", "Next.js", "Vue.js", "HTML5", "CSS3", "SASS"],
+    frontend: ["React", "Next.js", "Vue.js", "TailwindCSS", "Framer Motion"],
     backend: ["Node.js", "Express", "Flask", "FastAPI"],
     tools: ["Git", "Docker", "VS Code", "Figma", "Postman"],
     databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"]
@@ -92,7 +92,7 @@ const erzamBayu: Developer = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -251,7 +251,7 @@ const erzamBayu: Developer = {
 
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
-| 🎂 [Birthday Card](https://github.com/Erzambayu/birthday.githup.io) | Interactive birthday greeting dengan animasi | HTML, CSS, JS | [Demo](https://erzambayu.github.io/birthday.githup.io) |
+| 🎂 [Birthday Card](https://github.com/Erzambayu/birthday.github.io) | Interactive birthday greeting dengan animasi | HTML, CSS, JS | [Demo](https://erzambayu.github.io/birthday.github.io) |
 | 💕 [For You](https://github.com/Erzambayu/fau.github.io) | Personal message website dengan effects | HTML, CSS, JS | [Demo](https://erzambayu.github.io/fau.github.io) |
 | 🌟 [This For U](https://github.com/Erzambayu/thisforu.github.io) | Customizable love message platform | HTML, CSS, JS | [Demo](https://erzambayu.github.io/thisforu.github.io) |
 | 🏠 [My Web](https://github.com/Erzambayu/myweb) | Personal portfolio website | HTML, CSS, JS | [Demo](https://erzambayu.me) |
@@ -290,7 +290,7 @@ current_focus:
     - "WebAssembly (WASM)"
     - "Blockchain Development"
 
-goals_2024:
+future_goals:
   - "🎯 Contribute to major open-source projects"
   - "📚 Master full-stack TypeScript development"
   - "🌟 Build SaaS platform dengan modern tech stack"
@@ -341,11 +341,11 @@ goals_2024:
 
 | Metric | Count | Description |
 |--------|-------|-------------|
-| 🎯 **Projects Completed** | 15+ | Fully functional web applications |
-| ⭐ **GitHub Stars** | 200+ | Community appreciation |
-| 🤝 **Contributors** | 25+ | Collaborative development |
-| 👁️ **Profile Views** | 10K+ | Developer community reach |
-| 📱 **Live Demos** | 12+ | Deployed production apps |
+| 🎯 **Projects Completed** | 20+ | Fully functional web applications |
+| ⭐ **GitHub Stars** | 250+ | Community appreciation |
+| 🤝 **Contributors** | 30+ | Collaborative development |
+| 👁️ **Profile Views** | 15K+ | Developer community reach |
+| 📱 **Live Demos** | 15+ | Deployed production apps |
 
 </div>
 
@@ -373,12 +373,10 @@ Saya sedang mempersiapkan platform blog untuk berbagi:
 
 ### 💫 "The best way to predict the future is to create it." - Alan Kay
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-
 ---
 
 **⚡ Fun Fact:** Saya bisa debug kode sambil minum kopi dan mendengarkan lo-fi beats! ☕🎵
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00D9FF,007ACC,00D9FF&height=120&section=footer&animation=twinkling)
 
 </div>
