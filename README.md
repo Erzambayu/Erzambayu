@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=🚀+Full-Stack+Web+Developer;🤖+WhatsApp+Bot+Developer;💰+Financial+Tech+Creator;🔐+Security+and+Reconnaissance+Expert;🎨+Interactive+Web+Creator;🎥+Video+Streaming+Developer;💡+Problem+Solver+and+Innovator)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Erzambayu&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/Erzambayu?style=for-the-badge&color=007ACC&labelColor=1a1a1a&label=Followers)](https://github.com/Erzambayu?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/Erzambayu?style=for-the-badge&color=00D9FF&labelColor=1a1a1a&label=Total+Stars)](https://github.com/Erzambayu?tab=repositories)
@@ -322,10 +320,11 @@ const erzamBayu: Developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Erzambayu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Erzambayu&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FFD700&currStreakLabel=00D9FF" alt="GitHub Streak" />
+| 📈 GitHub Stats | 🔥 Streak Stats |
+|-----------------|------------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erzambayu&show_icons=true&theme=radical&hide_border=true&count_private=true) | ![GitHub Streak](https://streak-stats.demolab.com?user=Erzambayu&theme=radical&hide_border=true) |
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erzambayu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Erzambayu&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
@@ -409,8 +408,6 @@ future_goals:
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Erzambayu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### 📈 Impact Metrics
 
 | Metric | Count | Description |
@@ -453,13 +450,7 @@ Saya sedang mempersiapkan platform blog untuk berbagi:
 
 **⚡ Fun Fact:** Saya bisa debug kode sambil minum kopi dan mendengarkan lo-fi beats! ☕🎵
 
-### 🎵 Now Playing
-
-[![Spotify](https://novatorem-erzambayu.vercel.app/api/spotify)](https://open.spotify.com/user/erzambayu)
-
 ---
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Erzambayu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFD700" width="100%" alt="Contribution Graph" />
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling)
 
