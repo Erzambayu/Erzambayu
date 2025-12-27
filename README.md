@@ -1,12 +1,14 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=ERZAM%20BAYU&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Network%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Creative%20Innovator&descAlignY=51&descAlign=50&customColorList=0,2,2,5,30)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=ERZAM%20BAYU&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Passionate%20Developer%20and%20Creative%20Innovator&descAlignY=51&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=🚀+Full-Stack+Web+Developer;🤖+WhatsApp+Bot+Developer;💰+Financial+Tech+Creator;🔐+Security+and+Reconnaissance+Expert;🎨+Interactive+Web+Creator;🎥+Video+Streaming+Developer;💡+Problem+Solver+and+Innovator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Android+Security+Researcher;Reverse+Engineering+Expert;Shell+Script+Enthusiast;Security+%26+Reconnaissance+Expert;Interactive+Web+Creator;Video+Streaming+Developer;Problem+Solver+and+Innovator)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Erzambayu&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Erzambayu?style=for-the-badge&color=007ACC&labelColor=1a1a1a&label=Followers)](https://github.com/Erzambayu?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/Erzambayu?style=for-the-badge&color=00D9FF&labelColor=1a1a1a&label=Total+Stars)](https://github.com/Erzambayu?tab=repositories)
+<img src="https://github-profile-trophy.vercel.app/api/?username=Erzambayu&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=Erzambayu&color=0e75b6&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/Erzambayu?style=flat-square&color=0e75b6&labelColor=1a1a1a)
+![GitHub stars](https://img.shields.io/github/stars/Erzambayu?style=flat-square&color=0e75b6&labelColor=1a1a1a)
 
 </div>
 
@@ -35,20 +37,46 @@ interface Developer {
 
 const erzamBayu: Developer = {
   name: "Erzam Bayu",
-  role: ["Network Engineer", "Full-Stack Developer", "Security Researcher", "Creative Innovator"],
+  role: ["Full-Stack Developer", "Android Security Researcher", "Reverse Engineering Expert", "Creative Innovator"],
   location: "Indonesia 🇮🇩",
-  code: ["JavaScript", "TypeScript", "Python", "Vue.js", "HTML/CSS", "Shell Script"],
+  code: ["JavaScript", "TypeScript", "Python", "Smali", "Java", "HTML/CSS", "Shell Script"],
   technologies: {
-    frontend: ["React", "Next.js", "Vue.js", "TailwindCSS", "Framer Motion"],
-    backend: ["Node.js", "Express", "Flask", "FastAPI", "Baileys"],
-    tools: ["Git", "Docker", "VS Code", "Figma", "Postman"],
+    frontend: ["React", "Next.js", "Vue.js", "HTML5", "CSS3", "SASS"],
+    backend: ["Node.js", "Express", "Flask", "FastAPI"],
+    android: ["APKTool", "jadx", "Smali/Baksmali", "Frida", "ADB"],
+    security: ["Burp Suite", "OWASP ZAP", "Ghidra", "Binary Analysis"],
+    tools: ["Git", "Docker", "VS Code", "Android Studio", "Postman"],
     databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"]
   },
-  architecture: ["SPA", "PWA", "Microservices", "RESTful API", "GraphQL", "WhatsApp Bot"],
-  currentFocus: "Building innovative web solutions, financial tools, and automation bots",
-  funFact: "I love creating tools that solve real-world problems! 💡"
+  architecture: ["SPA", "PWA", "Microservices", "RESTful API", "GraphQL"],
+  currentFocus: "Building innovative web solutions, security research & Android reverse engineering",
+  funFact: "I can patch APKs while drinking coffee and listening to lo-fi beats! ☕🎵"
 };
 ```
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erzambayu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" alt="GitHub Stats"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erzambayu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Erzambayu&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=00D9FF&sideNums=00D9FF&dates=8B949E" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Erzambayu&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 
 </div>
 
@@ -66,7 +94,7 @@ const erzamBayu: Developer = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ### ⚙️ Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -75,7 +103,21 @@ const erzamBayu: Developer = {
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🛢️ Database & Cloud
+### � Android Development & Reverse Engineering
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![APKTool](https://img.shields.io/badge/APKTool-00C853?style=for-the-badge&logo=android&logoColor=white)
+![jadx](https://img.shields.io/badge/jadx-FF6F00?style=for-the-badge&logo=java&logoColor=white)
+![Smali](https://img.shields.io/badge/Smali-1976D2?style=for-the-badge&logo=android&logoColor=white)
+![Frida](https://img.shields.io/badge/Frida-F7931E?style=for-the-badge&logo=frida&logoColor=white)
+![ADB](https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### 🔐 Security & Penetration Testing
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-AA0000?style=for-the-badge&logo=ghidra&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+
+### �🛢️ Database & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -95,89 +137,9 @@ const erzamBayu: Developer = {
 
 ---
 
-## ⭐ Proyek Unggulan Terbaru
+## 🎯 Portfolio Unggulan
 
 <div align="center">
-
-### 🤖 Automation & Bot Development
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🤖 [WA-BOT](https://github.com/Erzambayu/WA-BOT)
-*WhatsApp Automation Bot*
-
-⚡ **Features:**
-- 📱 Multi-device WhatsApp connection
-- 🔧 Easy customization & plugins
-- 🚀 Fast & lightweight performance
-- 📦 Built with Baileys library
-- 🔄 Auto-reconnect system
-- 🛡️ Anti-spam protection
-
-[![Stars](https://img.shields.io/github/stars/Erzambayu/WA-BOT?style=for-the-badge&color=FFD700)](https://github.com/Erzambayu/WA-BOT/stargazers)
-[![Forks](https://img.shields.io/github/forks/Erzambayu/WA-BOT?style=for-the-badge&color=00D9FF)](https://github.com/Erzambayu/WA-BOT/forks)
-
-</td>
-<td width="50%">
-
-#### 💰 [BudgetKu](https://github.com/Erzambayu/BudgetKu)
-*Aplikasi Manajemen Keuangan Modern*
-
-💎 **Fitur Unggulan:**
-- 📊 Analisis prediktif keuangan
-- 📈 Visualisasi data spending
-- 💳 Tracking income & expenses
-- 🎯 Budget planning tools
-- 🌙 Dark mode support
-- 📱 Responsive UI design
-
-[![Stars](https://img.shields.io/github/stars/Erzambayu/BudgetKu?style=for-the-badge&color=FFD700)](https://github.com/Erzambayu/BudgetKu/stargazers)
-[![Forks](https://img.shields.io/github/forks/Erzambayu/BudgetKu?style=for-the-badge&color=00D9FF)](https://github.com/Erzambayu/BudgetKu/forks)
-
-</td>
-</tr>
-</table>
-
-### 🔧 Productivity & Tools
-
-<table>
-<tr>
-<td width="50%">
-
-#### 📋 [TaskFlow](https://github.com/Erzambayu/taskflow)
-*Modern Task Management App*
-
-✨ **Features:**
-- ✅ Intuitive task organization
-- 📊 Progress tracking system
-- 🏷️ Tags & categories
-- 🔔 Reminder notifications
-- 🎨 Beautiful UI/UX
-- 📱 Cross-platform support
-
-[![Stars](https://img.shields.io/github/stars/Erzambayu/taskflow?style=for-the-badge&color=FFD700)](https://github.com/Erzambayu/taskflow/stargazers)
-
-</td>
-<td width="50%">
-
-#### 🏦 [Cek Rekening Indonesia](https://github.com/Erzambayu/cek-rekening-indonesia)
-*Bank Account Verification Tool*
-
-🔍 **Capabilities:**
-- 🏦 Multi-bank support Indonesia
-- 👤 Account name verification
-- 🔒 Secure & private
-- ⚡ Fast lookup speed
-- 🌐 RESTful API
-- 📱 Modern web interface
-
-[![Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://cek-rekening-indonesia.vercel.app)
-
-</td>
-</tr>
-</table>
 
 ### 🌐 Web Development Projects
 
@@ -267,7 +229,7 @@ const erzamBayu: Developer = {
 *Advanced User Reconnaissance Tool*
 
 🎯 **Capabilities:**
-- 🔍 Find usernames across 30+ platforms (2025)
+- 🔍 Multi-platform user search
 - 📊 Social media analysis
 - 🌐 Web presence detection
 - 📈 Data aggregation & reporting
@@ -297,6 +259,47 @@ const erzamBayu: Developer = {
 
 </div>
 
+</table>
+
+### 🔐 Android Security & Reverse Engineering
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🛡️ APK Security Research
+*Advanced Android Application Analysis*
+
+🎯 **Expertise:**
+- 🔓 License & premium feature bypass
+- 🎮 Emulator detection bypass
+- 🔐 Integrity check patching
+- 📦 XAPK/Split APK reconstruction
+- 🔍 Smali code analysis & modification
+- 🛠️ APKTool & jadx proficiency
+
+[![Skills](https://img.shields.io/badge/Smali-Expert-1976D2?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Erzambayu)
+
+</td>
+<td width="50%">
+
+#### 🎯 Reverse Engineering Tools
+*Custom Security Analysis Solutions*
+
+⚡ **Capabilities:**
+- 🔬 Binary analysis & decompilation
+- 🧩 APK patching automation
+- 🔄 Universal APK creation
+- 🎮 Game protection bypass
+- 📱 App integrity research
+- 🛡️ Play Store verification analysis
+
+[![Projects](https://img.shields.io/badge/Security_Research-Active-00C853?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/Erzambayu)
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🎨 Creative Web Experiences
@@ -305,26 +308,10 @@ const erzamBayu: Developer = {
 
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
-| 🎂 [Birthday Card](https://github.com/Erzambayu/birthday.githup.io) | Interactive birthday greeting dengan animasi | HTML, CSS, JS | [![Demo](https://img.shields.io/badge/Demo-00D9FF?style=flat-square)](https://erzambayu.github.io/birthday.githup.io) |
-| � [Homepage Islami](https://github.com/Erzambayu/homepage-islami) | Islamic homepage dengan jadwal sholat | HTML, CSS, JS | [![Demo](https://img.shields.io/badge/Demo-4FC08D?style=flat-square)](https://homepage-islami.vercel.app) |
-| 🧮 [Age Calculator](https://github.com/Erzambayu/age-calculator) | Modern age calculator dengan dark mode | HTML, CSS, JS | [![Demo](https://img.shields.io/badge/Demo-007ACC?style=flat-square)](https://age-calculator-erzambayu.vercel.app) |
-| 💕 [This For U](https://github.com/Erzambayu/thisforu.github.io) | Customizable love message platform | HTML, CSS, JS | [![Demo](https://img.shields.io/badge/Demo-FF6B9D?style=flat-square)](https://erzambayu.github.io/thisforu.github.io) |
-| 🏠 [My Portfolio](https://github.com/Erzambayu/erzambayu.me) | Personal portfolio website | HTML, CSS, JS | [![Demo](https://img.shields.io/badge/Demo-FFD700?style=flat-square)](https://erzambayu.me) |
-| 🛒 [Toko Aplikasi Premium](https://github.com/Erzambayu/toko-aplikasi-premium) | E-commerce platform untuk digital products | JavaScript | [![Demo](https://img.shields.io/badge/Demo-E34F26?style=flat-square)](https://toko-aplikasi-premium.vercel.app) |
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-| 📈 GitHub Stats | 🔥 Streak Stats |
-|-----------------|------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erzambayu&show_icons=true&theme=radical&hide_border=true&count_private=true) | ![GitHub Streak](https://streak-stats.demolab.com?user=Erzambayu&theme=radical&hide_border=true) |
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Erzambayu&layout=compact&theme=radical&hide_border=true)
+| 🎂 [Birthday Card](https://github.com/Erzambayu/birthday.githup.io) | Interactive birthday greeting dengan animasi | HTML, CSS, JS | [Demo](https://erzambayu.github.io/birthday.githup.io) |
+| 💕 [For You](https://github.com/Erzambayu/fau.github.io) | Personal message website dengan effects | HTML, CSS, JS | [Demo](https://erzambayu.github.io/fau.github.io) |
+| 🌟 [This For U](https://github.com/Erzambayu/thisforu.github.io) | Customizable love message platform | HTML, CSS, JS | [Demo](https://erzambayu.github.io/thisforu.github.io) |
+| 🏠 [My Web](https://github.com/Erzambayu/myweb) | Personal portfolio website | HTML, CSS, JS | [Demo](https://erzambayu.me) |
 
 </div>
 
@@ -340,13 +327,20 @@ current_focus:
     - "React 18 dengan Server Components"
     - "Next.js 14 App Router & Server Actions"
     - "TypeScript Advanced Patterns"
-    - "Vue 3 Composition API"
+    - "Micro-frontends Architecture"
     
   backend_development:
     - "Node.js Performance Optimization"
-    - "WhatsApp Bot dengan Baileys"
     - "GraphQL dengan Apollo Server"
     - "Microservices dengan Docker"
+    - "Database Optimization Techniques"
+    
+  android_security:
+    - "Advanced APK Reverse Engineering"
+    - "Mobile Application Security Testing"
+    - "Smali Code Analysis & Patching"
+    - "Android Malware Analysis"
+    - "Frida Dynamic Instrumentation"
     
   devops_cloud:
     - "AWS Cloud Architecture"
@@ -360,12 +354,12 @@ current_focus:
     - "WebAssembly (WASM)"
     - "Blockchain Development"
 
-future_goals:
-  - "🎯 Contribute to major open-source projects"
-  - "📚 Master full-stack TypeScript development"
+goals_2025_2026:
+  - "🎯 Contribute to major open-source security projects"
+  - "📚 Master Android Security & Reverse Engineering"
   - "🌟 Build SaaS platform dengan modern tech stack"
-  - "🤝 Mentor junior developers"
-  - "🤖 Develop more automation tools"
+  - "🔐 Publish security research & tools"
+  - "🤝 Mentor junior developers & security researchers"
 ```
 
 </div>
@@ -376,28 +370,29 @@ future_goals:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-255E63?style=for-the-badge&logoColor=white)](https://erzambayu.me)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erzambayu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://erzambayu.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erzambayu)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/erzambayu)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/erzambayu)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erzambayu@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erzambayu@example.com)
 
 ### 💬 Mari Berkolaborasi!
 
 ```
 🚀 Open for collaboration on:
    • Innovative web applications
-   • WhatsApp Bot development
-   • Financial technology tools
-   • Open source projects
-   • Security research & tools
+   • Android security research & tools
+   • Open source security projects
+   • Reverse engineering tools
    • Creative digital experiences
 
 💡 Always interested in:
    • Challenging technical problems
+   • Security research opportunities
+   • Mobile app security testing
    • Mentoring opportunities
-   • Speaking at tech events
-   • Building the future of web
+   • Speaking at tech & security events
+   • Building the future of web & mobile security
 ```
 
 </div>
@@ -408,16 +403,18 @@ future_goals:
 
 <div align="center">
 
+<img src="https://github-profile-trophy.vercel.app/api/?username=Erzambayu&theme=tokyonight&no-frame=true&column=3&margin-w=15&margin-h=15&title=Commits,Repositories,PullRequest" alt="GitHub Achievements" />
+
 ### 📈 Impact Metrics
 
 | Metric | Count | Description |
 |--------|-------|-------------|
-| 🎯 **Projects Completed** | 25+ | Fully functional web applications |
-| ⭐ **GitHub Stars** | 50+ | Community appreciation |
-| 🤝 **Repo Forks** | 10+ | Collaborative development |
-| 👁️ **Profile Views** | Growing | Developer community reach |
-| 📱 **Live Demos** | 15+ | Deployed production apps |
-| 🤖 **Bots Created** | 5+ | Automation solutions |
+| 🎯 **Projects Completed** | 25+ | Fully functional applications & security tools |
+| ⭐ **GitHub Stars** | 300+ | Community appreciation |
+| 🤝 **Contributors** | 40+ | Collaborative development |
+| 👁️ **Profile Views** | 15K+ | Developer community reach |
+| 📱 **Live Demos** | 20+ | Deployed production apps |
+| 🔐 **Security Tools** | 10+ | APK analysis & reverse engineering tools |
 
 </div>
 
@@ -431,8 +428,7 @@ future_goals:
 
 Saya sedang mempersiapkan platform blog untuk berbagi:
 - 💡 Tutorial web development
-- 🤖 WhatsApp Bot development guides
-- 💰 Financial app development
+- 🔧 Tips & tricks programming
 - 🛡️ Security best practices
 - 🚀 Project showcases & case studies
 
@@ -446,12 +442,12 @@ Saya sedang mempersiapkan platform blog untuk berbagi:
 
 ### 💫 "The best way to predict the future is to create it." - Alan Kay
 
----
-
-**⚡ Fun Fact:** Saya bisa debug kode sambil minum kopi dan mendengarkan lo-fi beats! ☕🎵
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling)
+**⚡ Fun Fact:** Saya bisa reverse engineer APK, patch Smali code, dan debug aplikasi Android sambil minum kopi dan mendengarkan lo-fi beats! ☕🎵
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
 
 </div>
