@@ -103,7 +103,7 @@ const erzamBayu: Developer = {
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### � Android Development & Reverse Engineering
+### 📱 Android Development & Reverse Engineering
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![APKTool](https://img.shields.io/badge/APKTool-00C853?style=for-the-badge&logo=android&logoColor=white)
 ![jadx](https://img.shields.io/badge/jadx-FF6F00?style=for-the-badge&logo=java&logoColor=white)
@@ -117,7 +117,7 @@ const erzamBayu: Developer = {
 ![Ghidra](https://img.shields.io/badge/Ghidra-AA0000?style=for-the-badge&logo=ghidra&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 
-### �🛢️ Database & Cloud
+### ☁️🛢️ Database & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -256,8 +256,6 @@ const erzamBayu: Developer = {
 </td>
 </tr>
 </table>
-
-</div>
 
 </table>
 
