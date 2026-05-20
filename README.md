@@ -165,54 +165,84 @@ total 6 ・ sorted by relevance ・ all systems operational
 <tr>
 <td width="50%" valign="top">
 
-##### `[01] WA-BOT` ・ `js`
-> automated whatsapp bot framework, modular command system
+##### [`[01] WA-BOT`](https://github.com/Erzambayu/WA-BOT) ・ `js`
 
-<a href="https://github.com/Erzambayu/WA-BOT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Erzambayu&repo=WA-BOT&hide_border=true&bg_color=0a0a0a&title_color=00FF88&icon_color=FF2E97&text_color=e5e5e5&border_radius=4" alt="WA-BOT"/></a>
+> automated whatsapp bot framework with modular command system & event hooks
 
-</td>
-<td width="50%" valign="top">
-
-##### `[02] BudgetKu` ・ `js`
-> personal finance tracker with smart categorization
-
-<a href="https://github.com/Erzambayu/BudgetKu"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Erzambayu&repo=BudgetKu&hide_border=true&bg_color=0a0a0a&title_color=00FF88&icon_color=FF2E97&text_color=e5e5e5&border_radius=4" alt="BudgetKu"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-##### `[03] Session-Changer` ・ `js`
-> dynamic session rotator for automation tasks
-
-<a href="https://github.com/Erzambayu/sessionns-changerr"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Erzambayu&repo=sessionns-changerr&hide_border=true&bg_color=0a0a0a&title_color=00FF88&icon_color=FF2E97&text_color=e5e5e5&border_radius=4" alt="Session"/></a>
+<p>
+<img src="https://img.shields.io/github/stars/Erzambayu/WA-BOT?style=flat-square&logo=github&label=stars&color=00FF88&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/github/forks/Erzambayu/WA-BOT?style=flat-square&logo=git&label=forks&color=FF2E97&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/github/last-commit/Erzambayu/WA-BOT?style=flat-square&label=last&color=A371F7&labelColor=0a0a0a"/>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-##### `[04] TaskFlow` ・ `ts`
-> minimalist task manager with kanban + sync
+##### [`[02] BudgetKu`](https://github.com/Erzambayu/BudgetKu) ・ `js`
 
-<a href="https://github.com/Erzambayu/taskflow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Erzambayu&repo=taskflow&hide_border=true&bg_color=0a0a0a&title_color=00FF88&icon_color=FF2E97&text_color=e5e5e5&border_radius=4" alt="TaskFlow"/></a>
+> personal finance tracker with smart categorization & monthly insights
+
+<p>
+<img src="https://img.shields.io/github/stars/Erzambayu/BudgetKu?style=flat-square&logo=github&label=stars&color=00FF88&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/github/forks/Erzambayu/BudgetKu?style=flat-square&logo=git&label=forks&color=FF2E97&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/github/last-commit/Erzambayu/BudgetKu?style=flat-square&label=last&color=A371F7&labelColor=0a0a0a"/>
+</p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-##### `[05] Semangat-Sayang` ・ `web`
-> interactive love-letter web experience &nbsp; <a href="https://semangat-sayang.vercel.app">↗ live</a>
+##### [`[03] Session-Changer`](https://github.com/Erzambayu/sessionns-changerr) ・ `js`
 
-<a href="https://github.com/Erzambayu/Semangat-Sayang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Erzambayu&repo=Semangat-Sayang&hide_border=true&bg_color=0a0a0a&title_color=00FF88&icon_color=FF2E97&text_color=e5e5e5&border_radius=4" alt="Semangat"/></a>
+> dynamic session rotator for automation tasks & scraping pipelines
+
+<p>
+<img src="https://img.shields.io/github/stars/Erzambayu/sessionns-changerr?style=flat-square&logo=github&label=stars&color=00FF88&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/github/forks/Erzambayu/sessionns-changerr?style=flat-square&logo=git&label=forks&color=FF2E97&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/github/last-commit/Erzambayu/sessionns-changerr?style=flat-square&label=last&color=A371F7&labelColor=0a0a0a"/>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-##### `[06] ThisForYou` ・ `web`
-> customizable digital greeting platform &nbsp; <a href="https://thisforyou.vercel.app">↗ live</a>
+##### [`[04] TaskFlow`](https://github.com/Erzambayu/taskflow) ・ `ts`
 
-<a href="https://github.com/Erzambayu/ThisForYou"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Erzambayu&repo=ThisForYou&hide_border=true&bg_color=0a0a0a&title_color=00FF88&icon_color=FF2E97&text_color=e5e5e5&border_radius=4" alt="ThisForYou"/></a>
+> minimalist task manager with kanban view & realtime sync
+
+<p>
+<img src="https://img.shields.io/github/stars/Erzambayu/taskflow?style=flat-square&logo=github&label=stars&color=00FF88&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/github/forks/Erzambayu/taskflow?style=flat-square&logo=git&label=forks&color=FF2E97&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/github/last-commit/Erzambayu/taskflow?style=flat-square&label=last&color=A371F7&labelColor=0a0a0a"/>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+##### [`[05] Semangat-Sayang`](https://github.com/Erzambayu/Semangat-Sayang) ・ `web`
+
+> interactive love-letter web experience with custom animations
+
+<p>
+<a href="https://semangat-sayang.vercel.app"><img src="https://img.shields.io/badge/↗_live_demo-00FF88?style=flat-square&labelColor=0a0a0a"/></a>
+<img src="https://img.shields.io/github/stars/Erzambayu/Semangat-Sayang?style=flat-square&logo=github&label=stars&color=00FF88&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/github/last-commit/Erzambayu/Semangat-Sayang?style=flat-square&label=last&color=A371F7&labelColor=0a0a0a"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+##### [`[06] ThisForYou`](https://github.com/Erzambayu/ThisForYou) ・ `web`
+
+> customizable digital greeting platform with shareable links
+
+<p>
+<a href="https://thisforyou.vercel.app"><img src="https://img.shields.io/badge/↗_live_demo-00FF88?style=flat-square&labelColor=0a0a0a"/></a>
+<img src="https://img.shields.io/github/stars/Erzambayu/ThisForYou?style=flat-square&logo=github&label=stars&color=00FF88&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/github/last-commit/Erzambayu/ThisForYou?style=flat-square&label=last&color=A371F7&labelColor=0a0a0a"/>
+</p>
 
 </td>
 </tr>
