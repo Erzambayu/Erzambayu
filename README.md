@@ -117,16 +117,33 @@ listen:   lo-fi @ 0.85x speed
 
 ### `> ./run analytics --year=2026`
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Erzambayu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=00FF88&text_color=e5e5e5&icon_color=FF2E97&ring_color=00FF88&border_radius=4" alt="stats"/>
+```
+┌─[ github.metrics ]──────────────────────────
+│
+│  total commits  ▸ 1,305
+│  current streak ▸ 1 day
+│  longest streak ▸ 9 days
+│  public repos   ▸ 36
+│  followers      ▸ 13
+│  member since   ▸ feb 2019
+│
+│  top language   ▸ JavaScript    ████████░░ 42%
+│                ▸ TypeScript    ██████░░░░ 28%
+│                ▸ Python        ███░░░░░░░ 14%
+│                ▸ Java          ██░░░░░░░░  9%
+│                ▸ HTML/CSS      █░░░░░░░░░  7%
+│
+└──────────────────────────────────────────────
+```
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Erzambayu&hide_border=true&background=0a0a0a&stroke=00FF88&ring=FF2E97&fire=FF2E97&currStreakLabel=00FF88&sideLabels=e5e5e5&currStreakNum=e5e5e5&sideNums=e5e5e5&dates=8b8b8b&border_radius=4" alt="streak"/>
+<img width="100%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Erzambayu&hide_border=true&background=0a0a0a&stroke=00FF88&ring=FF2E97&fire=FF2E97&currStreakLabel=00FF88&sideLabels=e5e5e5&currStreakNum=e5e5e5&sideNums=e5e5e5&dates=8b8b8b&border_radius=4" alt="streak"/>
 
 </td>
 </tr>
@@ -138,7 +155,13 @@ listen:   lo-fi @ 0.85x speed
 <tr>
 <td width="40%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erzambayu&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=00FF88&text_color=e5e5e5&border_radius=4&langs_count=8" alt="langs"/>
+#### `> stack.distribution`
+
+<img src="https://img.shields.io/badge/JavaScript-42%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0a0a0a&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/TypeScript-28%25-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/Python-14%25-3776AB?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/Java-9%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ffffff&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/HTML%2FCSS-7%25-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff&labelColor=0a0a0a"/>
 
 </td>
 <td width="60%" valign="top">
