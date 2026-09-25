@@ -41,21 +41,13 @@ I'm a **Network Engineer** and **Full-stack Developer** from **Jakarta, Indonesi
 
 <br/>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
-<div align="center">
+<p align="center">
 
-[![Erzam's github stats](https://github-readme-stats.vercel.app/api?username=Erzambayu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9&icon_color=f59e0b&theme=default&include_all_commits=true&count_private=true)](https://github.com/Erzambayu)
+[GitHub profile](https://github.com/Erzambayu) · [Repositories](https://github.com/Erzambayu?tab=repositories) · [Stars](https://github.com/Erzambayu?tab=stars) · [Forks](https://github.com/Erzambayu?tab=forks)
 
-<br/><br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erzambayu&layout=compact&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9&icon_color=f59e0b&langs_count=10&theme=default)](https://github.com/Erzambayu)
-
-<br/><br/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Erzambayu&bg_color=0d1117&color=10b981&line=f59e0b&point=0ea5e9&hide_border=true&area=true&radius=10&title=Contribution%20Graph&theme=default)
-
-</div>
+</p>
 
 <br/>
 
@@ -134,20 +126,20 @@ I'm a **Network Engineer** and **Full-stack Developer** from **Jakarta, Indonesi
 
 <p>
 
-<a href="https://erzambayu.tech" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Website-0d1117?style=for-the-badge&logo=chrome&logoColor=10b981&color=0d1117&labelColor=064e3d" alt="Website" />
+<a href="https://erzambayu.tech" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Website-erzambayu.tech-0d1117?style=for-the-badge&logo=googlechrome&logoColor=10b981&color=0d1117&labelColor=064e3d" alt="Website" />
 </a>
 
-<a href="https://www.linkedin.com/in/erzambayu" target="_blank">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0ea5e9&color=0d1117&labelColor=064e3d" alt="LinkedIn" />
+<a href="https://linkedin.com/in/erzam-bayu" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-erzam-bayu-0d1117?style=for-the-badge&logo=linkedin&logoColor=0ea5e9&color=0d1117&labelColor=064e3d" alt="LinkedIn" />
 </a>
 
-<a href="https://twitter.com/erzambayu" target="_blank">
-  <img src="https://img.shields.io/badge/🐦_X-0d1117?style=for-the-badge&logo=x&logoColor=f8fafc&color=0d1117&labelColor=064e3d" alt="X/Twitter" />
+<a href="https://x.com/bayuerzam" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/X-bayuerzam-0d1117?style=for-the-badge&logo=x&logoColor=f8fafc&color=0d1117&labelColor=064e3d" alt="X/Twitter" />
 </a>
 
-<a href="mailto:erzambayu@erzambayu.tech">
-  <img src="https://img.shields.io/badge/✉️_Email-0d1117?style=for-the-badge&logo=gmail&logoColor=f59e0b&color=0d1117&labelColor=064e3d" alt="Email" />
+<a href="mailto:erzambayu@gmail.com">
+  <img src="https://img.shields.io/badge/Email-erzambayu@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=f59e0b&color=0d1117&labelColor=064e3d" alt="Email" />
 </a>
 
 </p>
@@ -157,7 +149,7 @@ I'm a **Network Engineer** and **Full-stack Developer** from **Jakarta, Indonesi
 <p>
 
 <a href="https://github.com/Erzambayu">
-  <img src="https://komarev.com/avatars/Erzambayu?size=80" alt="Avatar" />
+  <img src="https://github.com/Erzambayu.png" alt="GitHub avatar" />
 </a>
 
 </p>
